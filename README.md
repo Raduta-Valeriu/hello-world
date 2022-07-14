@@ -8,4 +8,4 @@ This message is brought to you by **[Raduta Valeriu Alexandru]**.
 
 Hey, guess what... you can also add your account avatar (image). It's enough to right click on your avatar where you see it in a page, go to `view image` and copy the link to it.
 Like this:  
-![My face](https://images.unsplash.com/photo-1529778873920-4da4926a72c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y3V0ZSUyMGNhdHxlbnwwfHwwfHw%3D&w=1000&q=80)
+![My face](https://avatars.githubusercontent.com/u/96415626?s=400&u=b9d93d8f27c4e0572e665bb06a491b233f7e2f09&v=4)
